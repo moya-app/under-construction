@@ -1,0 +1,23 @@
+h2 {
+    text-align: center;
+}
+
+.upgrade-message {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    height: 20vh;
+    padding: 10px;
+    color: #721c24;
+}
+
+.support-message {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 60vh;
+}
+.text-border {
+    border: 10px solid #f5c6cb;
+}
